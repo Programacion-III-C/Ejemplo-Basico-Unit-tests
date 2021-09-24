@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaLogica", "CapaLogica\CapaLogica.csproj", "{F0E52A96-D00A-4DDE-AD89-5402F7937204}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{14B900C2-649F-4514-811B-69754B05901C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F0E52A96-D00A-4DDE-AD89-5402F7937204}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0E52A96-D00A-4DDE-AD89-5402F7937204}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0E52A96-D00A-4DDE-AD89-5402F7937204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B900C2-649F-4514-811B-69754B05901C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B900C2-649F-4514-811B-69754B05901C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B900C2-649F-4514-811B-69754B05901C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B900C2-649F-4514-811B-69754B05901C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
